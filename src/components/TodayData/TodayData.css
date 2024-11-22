@@ -1,0 +1,17 @@
+#headSection{
+    
+    padding: 0 100px;
+}
+
+#LocationTag{
+    display: inline;
+    margin-top: 10px;
+}
+
+#bodySection{
+    padding: 15px;
+}
+
+#dataContainer{
+    width: 400px;
+}
